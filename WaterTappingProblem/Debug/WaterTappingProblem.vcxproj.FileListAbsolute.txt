@@ -1,0 +1,2 @@
+C:\Users\vagrant\Desktop\workspace\self\WaterTappingProblem\Debug\WaterTappingProblem.exe
+C:\Users\vagrant\Desktop\workspace\self\WaterTappingProblem\Debug\WaterTappingProblem.pdb
