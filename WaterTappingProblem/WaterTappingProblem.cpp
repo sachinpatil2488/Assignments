@@ -17,7 +17,7 @@ Tapping rain water
 
 Brute force solution : (n ^ 2)
 */
-void bruteForce(int* arr, int N) 
+void bruteForce(int* arr, int N)
 {
     int water = 0;
     for (int i = 1; i < N - 1; ++i)
@@ -72,7 +72,6 @@ void efficient(int* arr, const int N)
 
 int main()
 {
-    std::cout << "Hello World!\n";
     int arr[] = { 3,0,1,2,0,2,0,1,1,1 };
     bruteForce(arr, 10);
     efficient(arr, 10);

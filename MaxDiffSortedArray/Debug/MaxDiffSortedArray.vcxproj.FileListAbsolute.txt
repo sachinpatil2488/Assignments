@@ -1,2 +1,0 @@
-C:\Users\vagrant\Desktop\workspace\self\MaxDiffSortedArray\Debug\MaxDiffSortedArray.exe
-C:\Users\vagrant\Desktop\workspace\self\MaxDiffSortedArray\Debug\MaxDiffSortedArray.pdb

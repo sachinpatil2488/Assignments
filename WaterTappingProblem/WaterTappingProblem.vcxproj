@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{501E5C78-9585-4F41-A53E-DB845EE97130}</ProjectGuid>
+    <ProjectGuid>{86072C45-5BCB-4B5F-8B40-E04DBD67E3C5}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>WaterTappingProblem</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>

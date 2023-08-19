@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{3D1D47BE-D766-413A-AD07-1F222FDB68EA}</ProjectGuid>
+    <ProjectGuid>{2DDE0A30-F955-439F-8284-7975FD17A740}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>MaxDiffSortedArray</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>

@@ -35,7 +35,7 @@ void efficient(std::array<int, 10> arr)
 
 int main()
 {
-    array<int,10> arr= { -9,0,1,18,6,2,-3,4,5,3 };
+    array<int, 10> arr = { -9,0,1,18,6,2,-3,4,5,3 };
     //-9,-3,0,1,2,3,4,5,6,18
     bruteForce(arr);
     efficient(arr);

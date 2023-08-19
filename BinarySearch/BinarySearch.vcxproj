@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{67632B7D-9045-4ED4-ABA1-B8AB1271518E}</ProjectGuid>
+    <ProjectGuid>{5EEDD74C-4370-4A09-921D-46D38239C8D0}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>BinarySearch</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>

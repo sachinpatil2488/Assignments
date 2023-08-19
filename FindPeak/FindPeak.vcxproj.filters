@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Assignments.cpp">
+    <ClCompile Include="FindPeak.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -60,14 +60,13 @@ void recurstBS(std::array<int, 10> arr, int e, int l, int r)
         recurstBS(arr, e, l, mid - 1);
     }
     else {
-        std::cout << "\n BruteForce : found  at pos : " << mid;
+        std::cout << "\n Optimal : found  at pos : " << mid;
     }
 }
 
 //Optimised: O(n)
 void efficient(std::array<int, 10> arr, int e)
 {
-    std::cout << "\n Efficient";
     recurstBS(arr, e, 0, arr.size());
 }
 

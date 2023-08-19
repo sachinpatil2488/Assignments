@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{2B05269A-B55D-4167-9DA1-75933FD0292C}</ProjectGuid>
+    <ProjectGuid>{9A6D21B7-F574-4E24-877F-2D409FE27018}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>MaxAbsolteFunction</RootNamespace>
+    <RootNamespace>FindPeak</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -147,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MaxAbsolteFunction.cpp" />
+    <ClCompile Include="FindPeak.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

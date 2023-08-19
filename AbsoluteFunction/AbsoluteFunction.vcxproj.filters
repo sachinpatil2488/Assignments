@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MaxAbsolteFunction.cpp">
+    <ClCompile Include="AbsoluteFunction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
