@@ -66,8 +66,8 @@ public:
 
 int main()
 {
-//Input:
-    string s = "cbaebabacd", p = "abc";
+//Input: abcd is anagram with acbd
+    string s = "abcd", p = "acbd";
 //Output : [0, 6]
     auto result = Solution().findAnagrams(s, p);
 }
